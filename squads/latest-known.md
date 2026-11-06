@@ -1,5 +1,7 @@
 # Latest recorded squad recommendation
 
+> **6 November update:** The signed-in FPL Pick Team page was inspected and reloaded after the owner's request to lock GW10. The 15 and XI below match the account, with Haaland captain and Gabriel vice-captain. The account's outfield bench order was **Manzambi, O’Shea, Jay Dasilva**, superseding the historical proposed order below. Bank £0.4m and zero GW10 transfers were displayed; one free transfer was user-reported. See [GW10](../weeks/GW10-and-next.md) for the dated evidence and decisions. The team remains editable until the deadline.
+
 **Recommendation date:** 5 November 2026. **Label in the original review:** GW10. **Source:** S07, FPL Deadline Review. **Status:** ASSISTANT-PROPOSAL, not a verified current squad or new recommendation.
 
 ## Starting XI

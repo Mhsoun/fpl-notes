@@ -27,5 +27,6 @@ All dates are in 2026. Evidence labels are defined in [SOURCES_AND_LIMITATIONS.m
 | 31 Oct | GW9 | Latest recovered GW9 XI and bench; Groß and De Cuyper included in 15 | ASSISTANT-PROPOSAL; actual submitted team UNKNOWN | S01, S07 |
 | 5 Nov | GW10 | Start De Cuyper/Barcola over Dasilva/Manzambi; Haaland C, Gabriel VC; save transfer, no chip | ASSISTANT-PROPOSAL | S07 |
 | 6 Nov | Documentation | Publish the football archive to public Mhsoun/fpl-notes | Explicit owner authorization; repository import | Current request |
+| 6 Nov | GW10 | Owner requested locking the discussed lineup; reloaded account showed Haaland C, Gabriel VC, Manzambi/O’Shea/Dasilva bench and zero GW10 transfers | ACCOUNT-VERIFIED pre-deadline selection; editable until deadline; outcomes UNKNOWN | Current discussion and FPL Pick Team page |
 
 See [squad snapshots](squads/snapshots.md) for full available proposed rosters and [chip history](strategy/chips.md) for activation uncertainty.
