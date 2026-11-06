@@ -1,0 +1,13 @@
+# Public notes only. Keep credentials and unreviewed personal exports local.
+.env
+.env.*
+!.env.example
+*.token
+*.key
+*.pem
+credentials*.json
+screenshots/private/
+exports/private/
+chat-exports/private/
+.DS_Store
+Thumbs.db
